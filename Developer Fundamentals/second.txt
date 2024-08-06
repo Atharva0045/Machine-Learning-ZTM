@@ -1,0 +1,4 @@
+Develop a habit to comment your code.
+It is a good practice to do.
+
+Other developers will have a good understanding of your code, plus, it will give them a headstart if they are working with you in your team.
