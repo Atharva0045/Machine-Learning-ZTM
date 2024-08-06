@@ -1,0 +1,5 @@
+Statement: An enter line of code is known as statements!
+e.g. print('My name is Atharva Aher)
+
+Expression: A specific action int the code is known as expression!
+e.g. x = y/10, here, y/10 is an expression

@@ -1,0 +1,3 @@
+strings in python are immutable.
+one can not re-assign a specific position of string using the indices!
+you can only re-assign a string as a whole, not specific indices/positions!

@@ -1,0 +1,4 @@
+# there are data type functions which help to convert one data type to another:
+# int()
+# float()
+# str()
