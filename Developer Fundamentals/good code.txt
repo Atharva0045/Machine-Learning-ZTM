@@ -1,0 +1,5 @@
+What is good code:
+1) Clean code
+2) Readability
+3) Predictability
+4) DRY: Don't Repeat Yourself
