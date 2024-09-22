@@ -12,7 +12,7 @@
 # How to check type of the value or variable
 listt = [1,2,3]
 tuplee = (1,2,3)
-sett = set()
+sett = set() # or {}
 dictionary = {"Roll": 3, "Id": 2}
 
 # Accessing:
