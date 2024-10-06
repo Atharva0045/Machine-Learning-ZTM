@@ -9,7 +9,6 @@ The repository covers the following topics:
 
 1. **Data Preprocessing**: Handling missing data, encoding categorical variables, feature scaling, and splitting datasets.
 2. **Supervised Learning**: Regression and classification models such as Linear Regression, Decision Trees, Random Forest, and Support Vector Machines.
-3. **Unsupervised Learning**: Clustering techniques like K-Means and Hierarchical Clustering.
 4. **Model Evaluation**: Accuracy, Precision, Recall, F1 Score, ROC Curves, and Confusion Matrices.
 5. **Deep Learning**: Implementing neural networks using TensorFlow and Keras.
 6. **Advanced Topics**: Transfer Learning, Natural Language Processing, and more.
@@ -27,9 +26,8 @@ The repository covers the following topics:
 
 Here are a few projects you'll find in this repository:
 
-- **Project 1: Predicting House Prices**: Using regression models to predict house prices based on various features.
-- **Project 2: Sentiment Analysis**: Classifying sentiments from textual data using NLP techniques.
-- **Project 3: Image Classification**: Classifying images using CNN and transfer learning.
+- **Project 1: Iris Dataset Classification**: Understanding the fundamentals behind classification.
+- **Project 2: Predicting House Prices**: Using regression models to predict house prices based on various features.
 
 ## 💡 Key Concepts Learned
 
@@ -49,13 +47,11 @@ Here are a few projects you'll find in this repository:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Jupyter notebooks in the `notebooks/` directory to explore each project.
+3. Run the Jupyter notebooks
 
 ## 🧠 Future Work
 
-- Add more advanced deep learning projects.
-- Expand the current NLP section with additional datasets.
-- Implement reinforcement learning examples.
+- Add more advanced projects.
 
 ## 🤝 Contributing
 
